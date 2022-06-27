@@ -23,3 +23,4 @@
 ### mandar repositório local para github : git push master
 
 ### voltar um nivel de uma pasta : cd ..
+### limpar a tela : ctrl l
