@@ -24,3 +24,4 @@
 
 ### voltar um nivel de uma pasta : cd ..
 ### limpar a tela : ctrl l
+### para adicionar modificações novas para o staged : git add *
